@@ -1,0 +1,14 @@
+html{
+    background-color: black;
+    background-image: none;
+}
+.btn1{
+    color: aquamarine;
+    background-color: black;
+}
+h1{
+    color: #5d00ff;
+    position: relative;
+    text-align: center;
+    font-style: italic;
+}
